@@ -15,8 +15,6 @@
       "dest": "/index.html"
     }
   ],
-
-{
   "headers": [
     {
       "source": "/about.js",
