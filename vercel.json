@@ -14,8 +14,8 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ]
-}
+  ],
+
 {
   "headers": [
     {
